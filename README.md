@@ -1,4 +1,4 @@
-# EE-Emerge2021_Mechanical_3DModels
+# EE-Emerge2021_Mechanical
 
 # Team Members
 * Sean Alling (Teaching Assistant)
