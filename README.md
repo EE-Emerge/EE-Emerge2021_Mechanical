@@ -9,3 +9,4 @@
 * Gisselle Ibarra
 * Kevin Phan
 * Ryan Chan
+* Victoria Pierce
