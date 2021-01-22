@@ -2,6 +2,8 @@
 
 # Team Members
 * Sean Alling (Teaching Assistant)
+* Vanessa Liera (Co Team Leader)
+* Anthony Pham (Co Team Leader)
 * Darren Animo
 * Sejal Karanjkar
 * Gisselle Ibarra
