@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages This Is EE-Emerge 2020 MEchanical - Kevin
+## Welcome to GitHub Pages this is EE-Emerge 2020 Mechanical
 
 You can use the [editor on GitHub](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,8 +14,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-# Mechanical Iterations
 
 - Bulleted
 - List
