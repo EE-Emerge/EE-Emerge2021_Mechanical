@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/EE-Emerge/EE-Emerge2021_Me
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Version 2.0 Brainstorm ( Date Created_3_10_21).jpg ](![image](https://user-images.githubusercontent.com/63338780/115165808-8694bb00-a064-11eb-8eed-6749283d164b.png)
-)
+
+![README.md](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.0%20Brainstorm%20(Date%20Created_%203_10_21).jpg?raw=true)
 
 ### Markdown
 
