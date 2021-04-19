@@ -10,6 +10,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![README.md](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.0%20Brainstorm%20(Date%20Created_%203_10_21).jpg?raw=true)
 
+![Version 1.0 (Date Created ???).png](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%201.0%20(Date%20Created%20%3F%3F%3F).png?raw=true)
+
+
+
+
 ![Version 2.0 Brainstorm (Date Created_ 3_10_21).jpg](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.0%20Brainstorm%20(Date%20Created_%203_10_21).jpg?raw=true)
 
 ### Markdown
