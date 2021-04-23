@@ -8,17 +8,36 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-![README.md](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.0%20Brainstorm%20(Date%20Created_%203_10_21).jpg?raw=true)
+![ProductSketch.jpg](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/ProductSketch.jpg?raw=true)
 
-![Version 1.0 (Date Created ???).png](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%201.0%20(Date%20Created%20%3F%3F%3F).png?raw=true)
+![group_image.png](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/group_image.png?raw=true)
+
+![Version 0.0 (Date Created_ ___).PNG](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%200.0%20(Date%20Created_%20___).PNG?raw=true)
+
+![Version 1.0 (Date Created_ ___).png](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%201.0%20(Date%20Created_%20___).png?raw=true)
 
 ![Version 1.1 (Date Created: 3:5:21).jpg](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%201.1%20(Date%20Created:%203:5:21).jpg?raw=true)
 
+![Version 1.2 - Front View (Date Created_ ___).PNG](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%201.2%20-%20Front%20View%20(Date%20Created_%20___).PNG?raw=true)
 
-![alt text](http://url/to/img.png)
+![Version 1.2 - Side View (Date Created_ ___).PNG](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%201.2%20-%20Side%20View%20(Date%20Created_%20___).PNG?raw=true)
+
+![Version 2.0 - Brainstorm (Date Created_ 3_10_21).jpg](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.0%20-%20Brainstorm%20(Date%20Created_%203_10_21).jpg?raw=true)
+
+![Version 2.0 - Front View (Date Created_ ___).PNG](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.0%20-%20Front%20View%20(Date%20Created_%20___).PNG?raw=true)
+
+![Version 2.0 - Side View (Date Created_ ___).PNG
+](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.0%20-%20Side%20View%20(Date%20Created_%20___).PNG?raw=true)
+
+![Version 2.1 - Front View w_ Battery Issue (Date Created_ 4_18_21).PNG](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.1%20-%20Front%20View%20w_%20Battery%20Issue%20(Date%20Created_%204_18_21).PNG?raw=true)
+
+![Version 2.1 - Front View (Date Created_ 4_18_21).PNG](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.1%20-%20Front%20View%20(Date%20Created_%204_18_21).PNG?raw=true)
 
 
-![alt text](http://url/to/img.png)
+![Version 2.1 - Top View (Date Created_ 4_18_21).PNG](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical/blob/master/docs/Version%202.1%20-%20Top%20View%20(Date%20Created_%204_18_21).PNG?raw=true)
+
+
+
 
 
 
