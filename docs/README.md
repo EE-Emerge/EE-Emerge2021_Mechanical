@@ -1,4 +1,4 @@
-# EE-Emerge 2021: Hardware
+# EE-Emerge 2021: Mechanical
 
 ## Table of Contents
 
@@ -19,13 +19,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Getting the Source
 
-This project is [hosted on GitHub](https://github.com/EE-Emerge/EE-Emerge2021_Hardware). You can clone this project directly using this command:
+This project is [hosted on GitHub](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical). You can clone this project directly using this command:
 
 ```
-git clone https://github.com/EE-Emerge/EE-Emerge2021_Hardware
+git clone https://github.com/EE-Emerge/EE-Emerge2021_Mechanical
 ```
 
-This will create a new root folder "EE-Emerge2020-FourFace" that will contain all projects for Four Face.
+This will create a new root folder "EE-Emerge2020_Mechanical" that will contain all projects for Four Face.
 
 ## Installation
 
@@ -46,7 +46,7 @@ This will create a new root folder "EE-Emerge2020-FourFace" that will contain al
 
 # How to Get Help
 
-For help please contact one of the project [authors](https://github.com/EE-Emerge/EE-Emerge2021_Hardware/graphs/contributors).
+For help please contact one of the project [authors](https://github.com/EE-Emerge/EE-Emerge2021_Mechanical).
 
 
 # Authors
